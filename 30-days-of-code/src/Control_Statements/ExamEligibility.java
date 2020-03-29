@@ -26,6 +26,7 @@ public class ExamEligibility {
 			System.out.print("Attendence Perccentage = "+attendence);
 
 		}
+		sc.close();
 
 	}
 
