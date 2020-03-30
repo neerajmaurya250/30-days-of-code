@@ -1,4 +1,4 @@
-package Control_Statements;
+package Control_Statements.IfElse;
 
 public class IfExample {
 

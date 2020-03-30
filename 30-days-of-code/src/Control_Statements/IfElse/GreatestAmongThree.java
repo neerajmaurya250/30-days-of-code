@@ -1,4 +1,4 @@
-package Control_Statements;
+package Control_Statements.IfElse;
 import java.util.Scanner;
 
 public class GreatestAmongThree {
