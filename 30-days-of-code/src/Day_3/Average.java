@@ -1,4 +1,4 @@
-package Java_Loop;
+package Day_3;
 import java.util.Scanner;
 
 public class Average {

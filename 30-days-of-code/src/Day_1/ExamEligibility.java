@@ -1,4 +1,4 @@
-package Control_Statements.IfElse;
+package Day_1;
 import java.util.Scanner;
 
 public class ExamEligibility {

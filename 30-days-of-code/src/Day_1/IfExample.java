@@ -1,4 +1,4 @@
-package Control_Statements.IfElse;
+package Day_1;
 
 public class IfExample {
 

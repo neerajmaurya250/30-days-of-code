@@ -1,4 +1,4 @@
-package Switch_Statements;
+package Day_2;
 
 public class SwitchExample {
 	
